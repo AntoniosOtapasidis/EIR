@@ -31,7 +31,7 @@ dependencies = [
     "ipython>=8.29.0",
     "timm>=1.0.7",
     "captum>=0.7.0",
-    "deeplake==3.4.9",
+    "deeplake==3.9.41",
     "aioboto3>=13.1.0",
     "termcolor>=2.4.0",
     "tokenizers>=0.21.0",
